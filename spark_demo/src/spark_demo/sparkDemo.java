@@ -7,5 +7,7 @@ public class sparkDemo {
         System.out.println("Git is not only SCM");
         System.out.println("Git is DVCS");
         System.out.println("Git is CMS");
+        System.out.println("Git is Powerful");
+        System.out.println("Git is DVCS");
 	}    
 }
